@@ -1,0 +1,7 @@
+.parcel-cache/
+node_modules/
+<<<<<<< HEAD
+dist
+=======
+dist/
+>>>>>>> f718358 (Ashok)
